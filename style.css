@@ -1,0 +1,113 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #cc2525;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 71px;
+  top: 64px;
+  width: 497px;
+  height: 112px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -137px);
+  top: 64px;
+  width: 228px;
+  height: 83px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  right: 25px;
+  top: 64px;
+  width: 318px;
+  height: 79px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 477px;
+  top: 64px;
+  width: 332px;
+  height: 83px;
+}
+.lets-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 374px;
+  width: 595px;
+  height: 150px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 327px;
+  top: 554px;
+  width: 767px;
+  height: 232px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  width: 180px;
+  height: 57px;
+  position: static;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 631px;
+  top: 729px;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 637px;
+  top: 745px;
+  width: 167px;
+  height: 25px;
+}
